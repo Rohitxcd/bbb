@@ -1,4 +1,4 @@
-readme = """# Blood-Brain Barrier Permeability Prediction
+ """# Blood-Brain Barrier Permeability Prediction
 
 ## Overview
 Fine-tuned ChemBERTa model to predict whether a molecule can cross the Blood-Brain Barrier (BBB).
@@ -26,9 +26,9 @@ Fine-tuned ChemBERTa model to predict whether a molecule can cross the Blood-Bra
 3. Model trains in ~10 minutes on T4 GPU
 
 ## Team
-- Rohit
-- [Friend 1]
-- [Friend 2]
+- Rohit Saharay
+- Tiyas Datta
+- Abhik Ghosh
 """
 
 with open('/content/bbb/README.md', 'w') as f:
